@@ -1,7 +1,7 @@
 {
   "inbounds": [
     {
-      "tag": "Sing-Reality",
+      "tag": "Sing-Box-Reality",
       "type": "vless",
       "listen": "::",
       "listen_port": 4443,
@@ -11,14 +11,14 @@
       "users": [],
       "tls": {
         "enabled": true,
-        "server_name": "www.apple.com",
+        "server_name": "androidcentral.com",
         "reality": {
           "enabled": true,
           "handshake": {
-            "server": "www.apple.com",
+            "server": "androidcentral.com",
             "server_port": 443
           },
-          "private_key": "0BjBbIZBh8yNnUpJO-Jo5hOkTm6r8Cxn3kT1gU-sblg",
+          "private_key": "eAny-ctGRTuyd2q-yDcg2W0V5QholnFK8lnO33cwq0Q",
           "short_id": [
             "a56f71"
           ]
